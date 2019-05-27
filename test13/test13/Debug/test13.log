@@ -1,0 +1,4 @@
+﻿  test13.cpp
+c:\users\hp301\desktop\test13\test13\test13.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test13.vcxproj -> C:\Users\HP301\Desktop\test13\Debug\test13.exe
+  test13.vcxproj -> C:\Users\HP301\Desktop\test13\Debug\test13.pdb (Full PDB)
